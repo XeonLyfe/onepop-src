@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.onepop.mixin.mixins",
+  "refmap": "mixins.onepop.refmap.json",
+  "mixins": [
+    "MixinAbstractHorse",
+    "MixinBossOverlay",
+    "MixinEntity",
+    "MixinEntityLivingBase",
+    "MixinEntityPig",
+    "MixinEntityPlayer",
+    "MixinEntityPlayerSP",
+    "MixinEntityRenderer",
+    "MixinGuiInGame",
+    "MixinItemRenderer",
+    "MixinMinecraft",
+    "MixinNetworkManager",
+    "MixinPlayerControllerMP",
+    "MixinRenderLivingBase",
+    "MixinWorld"
+  ]
+}
